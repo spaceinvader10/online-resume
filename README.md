@@ -1,3 +1,2 @@
 # online-resume
-Working online resume/blog
-For portfolio
+Working online resume/blog for portfolio
